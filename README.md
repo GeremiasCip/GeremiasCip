@@ -26,5 +26,3 @@
   <a href= "https://dribbble.com/GeremiasSilva" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
   <a href= "http://api.whatsapp.com/send?1=pt_BR&phone=5535997301817" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </div>
-
-![contribution](https://activity-graphy.herokuapp.com/graphy/?username=GeremiasCip&theme=gotham&hide_border=true&area=true)
